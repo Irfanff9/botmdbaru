@@ -33,63 +33,6 @@ global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" //
 global.owner = ["6289510497533","6289510497533","6285855854993"] //ganti agar fitur owner bisa di gunakan
 global.packname = 'IRFANBOT By Ipan' //sticker wm ubah
 global.author = '@IRFANFF9
-ㅤᅠ
-ᅠ
-ᅠ
-ᅠ
-ᅠ
-ᅠ
-ᅠ
-ᅠ
-ᅠ
-ᅠ
-ᅠ
-ᅠ
-ᅠ
-ᅠ
-ᅠ
-ᅠ
-ᅠ
-ᅠ
-ᅠ
-ᅠ
-ᅠ
-ᅠ
-ᅠ
-ᅠ
-ᅠ
-ᅠ
-ᅠ
-ᅠ
-ᅠ
-ᅠ
-ᅠ
-ᅠ
-ᅠ
-ᅠ
-ᅠ
-ᅠ
-ᅠ
-ᅠ
-ᅠ
-ᅠ
-ᅠ
-ᅠ
-ᅠ
-ᅠ
-ᅠ
-ᅠ
-ᅠ
-ᅠᅠ
-ᅠ
-ᅠ
-ᅠ
-ᅠ
-ᅠ
-ᅠ
-ᅠ
-ᅠ
-ᅠ
 ᅠ' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
